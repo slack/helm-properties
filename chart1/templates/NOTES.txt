@@ -1,0 +1,4 @@
+Chart installed.
+
+  Namespace: {{ .Release.Namespace }}
+
